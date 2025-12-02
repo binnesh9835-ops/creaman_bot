@@ -1,0 +1,5 @@
+creaman.db
+__pycache__/
+.env
+config.py
+*.sqlite3
